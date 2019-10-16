@@ -1,5 +1,5 @@
 import React from "react";
-import Question from "./components/Question";
+// import Question from "./components/Question";
 
 
 export default block => {
@@ -9,7 +9,7 @@ export default block => {
         <div>
         <p></p>
         </div>
-        <div className="col-12 col-md-6 offset-md-3 pt-4">
+        <div className="col-12">
             <table className="table">
               <tr>
                 <th>Question</th>
