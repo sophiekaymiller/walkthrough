@@ -13,7 +13,7 @@ export default props => (
             </thead>
             <tbody>
             <tr>
-            <td>{props.block.question}</td>
+            <td>{props.block.text}</td>
             <td>{props.block.percent_correct}</td>
             </tr>
         </tbody>
